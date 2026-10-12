@@ -230,7 +230,7 @@ parking sensors or real-world historical data.
 
 ## License
 
-This project ia developed for educational and learning purposes. 
+This project is developed for educational and learning purposes. 
 
 ## Author
 
