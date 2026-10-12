@@ -1,0 +1,7 @@
+flask>=3.0.0
+werkzeug>=3.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+qrcode[pil]>=7.4.2
+pillow>=10.0.0
+twilio>=8.0.0
