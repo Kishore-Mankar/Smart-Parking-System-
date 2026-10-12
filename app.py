@@ -79,9 +79,9 @@ def _rs(rows):
 # ── Email Config ──────────────────────────────────────────────────────────────
 EMAIL_HOST     = os.environ.get('EMAIL_HOST', 'smtp.gmail.com')
 EMAIL_PORT     = int(os.environ.get('EMAIL_PORT', 587))
-EMAIL_USER     = os.environ.get('EMAIL_USER', 'sidharthathokala5@gmail.com')
-EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD', 'kytiijnnbzxgxbbn')
-EMAIL_FROM     = os.environ.get('EMAIL_FROM', 'SmartPark  <noreply@smartpark.ai>')
+EMAIL_USER     = os.environ.get('EMAIL_USER', 'add-your-email-here')
+EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD', 'your-password')
+EMAIL_FROM     = os.environ.get('EMAIL_FROM', 'SmartParking  <noreply@smartpark.ai>')
 
 predictor = ParkingPredictor()
 
